@@ -10,4 +10,4 @@ C++ based soduku solver for DOS with GUI and mouse interrupts
 4) To start: 1) Download the C++ file; 2) open in DOS
 
 
-Note: The .cpp file was developed in TurboC compiler.
+Note: The SUDGRAPH.cpp file was developed in TurboC compiler.
